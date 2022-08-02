@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const Hello = () => {
-    return (
-        <div>
-            Hello word!
-        </div>
-    );
+  return <div>Hello word!</div>;
 };
 
 export default Hello;
